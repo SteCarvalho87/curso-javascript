@@ -11,7 +11,9 @@ const numeroPar = (numero % 2) === 0;
 
 console.log(numeroPar);
 
-if(numeroPar){
+if(numero===0){
+    console.log('O número inválido');
+}else if(numeroPar){
     console.log('O número e par');
 }else{
     console.log('O número e impar');
