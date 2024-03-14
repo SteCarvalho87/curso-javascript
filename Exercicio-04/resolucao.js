@@ -2,6 +2,8 @@ let peso = 85;
 let altura = 1.65;
 let imc = peso / (Math.pow(altura,2));
 
+/* Math.pow importa uma biblioteca com calculos matemáticos. Esse comando no caso faz a altura elevada ao número depois da vírgula*/
+
 console.log(imc.toFixed(2));
 
 if (imc < 18.5){

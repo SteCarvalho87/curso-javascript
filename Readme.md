@@ -9,4 +9,4 @@ Node.js v12.22.9.
 Visuak Studio Code (Para edição)
 
 ## Como rodar o código ✅
-Com o Node.js instalado, abra o terminal pelo próprio Visual Studio Code e digite o comando "node nomedoarquivo.js"
+Com o Node.js instalado, abra o terminal pelo próprio Visual Studio Code e digite o comando "node ./nomeDaPasta/nomeDoArquivo.js"
