@@ -5,7 +5,7 @@ O IMC - índice de Massa corporal é um critério da Organização Mundial de Sa
 Fórmula do IMC:
 IMC = peso/(altura*altura)
 
-Elabore um algoritimo que dado o peso e a altura de um adulto mostre sua condição de acordo com a tabela abaixo:
+Elabore um algoritmo que dado o peso e a altura de um adulto mostre sua condição de acordo com a tabela abaixo:
 
 Classificação:
 * Abaixo de 18.5: abaixo de peso;
